@@ -43,9 +43,9 @@ The data strongly argues against the move, particularly for your most active pla
 
 **Install dependencies:**
 
-\`\`\`bash
+```bash
 pip install pandas numpy scipy statsmodels matplotlib seaborn jupyter
-\`\`\`
+```
 
 ------------------------------------------------------------------------------------------
 
